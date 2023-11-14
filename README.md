@@ -33,3 +33,16 @@ Often there is a value in exploring relationships between connected entities in 
 - Nodes are not tied to a fixed schema --> flexibility.
 
 ![image](https://github.com/Minwauu/Big-Data/assets/110039102/3947a746-55f7-4be5-8cce-0e0d55cb782b)
+
+![image](https://github.com/Minwauu/Big-Data/assets/110039102/65198e52-0b32-4c40-aae5-1425517e4cc4)
+
+![image](https://github.com/Minwauu/Big-Data/assets/110039102/5de8a8ec-af8e-42af-b022-aba98f378c4e)
+
+![image](https://github.com/Minwauu/Big-Data/assets/110039102/9521b90f-6319-4798-a29f-bfb70f4ec634)
+
+![image](https://github.com/Minwauu/Big-Data/assets/110039102/c2a45a2f-e269-4b0a-b8ac-62de2f173f66)
+
+
+
+
+
