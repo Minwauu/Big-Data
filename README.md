@@ -8,7 +8,7 @@ Big data are volumous and are often unstructured and come in huge variety of for
 - Velocity - Data are continuously being added to an already huge dataset so greater space capacity is needed. (streaming data, milliseco0nds to seconds to respond)
 - Variety - There is a high range of data types so that data are unstructured. (data in many forms such as structured, unstructured, text, multimedia)
 
-  ## Multiple servers
+## Multiple servers
 Because the quantity of data are so large, the data need to be processed in parallel (at the same time) over multiple machines. This means that programs have to be designed with concurrency in mind, that is they need to be thread-safe. This is where functional programming comes in.
 
 ## Machine learning
